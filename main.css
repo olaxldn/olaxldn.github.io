@@ -26,10 +26,10 @@ a:hover {
   color: 	#00ff00;
 }
 
-@fa-facebook-square:#3b5998;
-@fa-twitter: #55acee;
-@fa-linkedin: #0976b4;
-@fa-medium: #000;
+@fab-facebook-square:#3b5998;
+@fab-twitter: #55acee;
+@fab-linkedin: #0976b4;
+@fab-medium: #000;
 
 .roundimg {
   border-radius: 50%;
