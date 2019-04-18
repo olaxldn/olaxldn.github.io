@@ -18,6 +18,14 @@ a:hover {
   color: rgba(0, 255, 0, 65);
 }
 
+.yellow {
+  color: 	#FFFF00;
+}
+
+.green {
+  color: 	#00ff00;
+}
+
 .roundimg {
   border-radius: 50%;
   margin-top: 20px;
