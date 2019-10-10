@@ -62,8 +62,7 @@ h3 {
 .center {
   display: block;
   width: 50%;
-  max-width: 200px;
-  height: 500px;
+  height: 200px;
 }
 
 .icons {
