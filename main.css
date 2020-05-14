@@ -18,8 +18,16 @@ a:hover {
   color: rgba(255, 0, 0, 0.8);
 }
 
+.high {
+  color: rgba(0, 0, 0, 0);
+}
+
 .blue {
   color: 	#0000ff;
+}
+
+.red {
+  color: 	#eb3349;
 }
 
 .green {
