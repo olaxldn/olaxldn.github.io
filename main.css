@@ -14,6 +14,10 @@ a:hover {
   color: #9400D3;
 }
 
+.highlight1 {
+  color: #9400D3;
+}
+
 .highlight {
   color: #777777;
 }
@@ -78,6 +82,7 @@ h3 {
 }
 
 .xyz {
- width: 400px; 
+ width: 400px;
+ align-items: center;
 }
 
