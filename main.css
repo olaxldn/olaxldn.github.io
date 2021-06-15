@@ -83,7 +83,9 @@ h3 {
 }
 
 .xyz {
- width: 400px;
- margin-left: 450px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
 
