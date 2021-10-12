@@ -84,7 +84,12 @@ h3 {
 
 .xyz {
   margin: auto;
+  margin-top: 20px;
   width: 70%;
   padding: 10px;
+}
+
+.cba {
+  margin-top: 20px;
 }
 
