@@ -53,7 +53,7 @@ a:hover {
 .roundimg {
   border-radius: 100%;
   margin-top: 20px;
-  width: 70%;
+  width: 100%;
   max-width: 150px;
 }
 
